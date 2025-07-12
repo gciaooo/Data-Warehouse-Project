@@ -1,0 +1,4 @@
+Code;Min;Max;Performance Evaluation
+GTL1;0;50;Good
+GTL2;51;150;Normal
+GTL3;151;9999;Bad

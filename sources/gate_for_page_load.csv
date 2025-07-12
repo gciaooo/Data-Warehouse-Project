@@ -1,0 +1,4 @@
+Code;Min;Max;Performance Evaluation
+GPL1;0;150;Good
+GPL2;151;250;Normal
+GPL3;251;9999;Bad

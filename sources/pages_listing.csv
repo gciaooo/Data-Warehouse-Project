@@ -1,0 +1,49 @@
+Page name;Page URL;Topic;Gateway Pass;Firewall Pass
+Portal - Home page;/;HOME;0;0
+Portal;/;HOME;0;0
+Essential status indicators - Purpose;/apis/cloud/statusIndicators/introduction;MARKETING;1;0
+Essential status indicators - Security;/apis/cloud/statusIndicators/security;TECH;1;0
+Essential status indicators - Specification;/apis/cloud/statusIndicators/specification;TECH;1;1
+Essential status indicators - Usage;/apis/cloud/statusIndicators/usage;TECH;1;1
+Live visualization - Purpose;/apis/cloud/liveVisualization/introduction;MARKETING;1;0
+Live visualization - Security;/apis/cloud/liveVisualization/security;TECH;1;0
+Live visualization - Specification;/apis/cloud/liveVisualization/specification;TECH;1;1
+Live visualization - Usage;/apis/cloud/liveVisualization/usage;TECH;1;1
+Maintenance information - Purpose;/apis/cloud/maintenanceInformation/introduction;MARKETING;1;0
+Maintenance information - Security;/apis/cloud/maintenanceInformation/security;TECH;1;0
+Maintenance information - Specification;/apis/cloud/maintenanceInformation/specification;TECH;1;1
+Notifications and alerts - Purpose;/apis/cloud/notificationAlerts/introduction;MARKETING;1;0
+Notifications and alerts - Security;/apis/cloud/notificationAlerts/security;TECH;1;0
+Notifications and alerts - Specification;/apis/cloud/notificationAlerts/specification;TECH;1;1
+Notifications and alerts - Usage;/apis/cloud/notificationAlerts/usage;TECH;1;1
+Robot building logistics - Purpose;/apis/cloud/robot/introduction;MARKETING;1;0
+Robot building logistics - Security;/apis/cloud/robot/security;TECH;1;0
+Robot building logistics - Specification;/apis/cloud/robot/specification;TECH;1;1
+Robot building logistics - Usage;/apis/cloud/robot/usage;TECH;1;1
+PORT Gateway - Deployment;/apis/onSite/pGateway/deployment;TECH;1;1
+PORT Gateway - Requirements;/apis/onSite/pGateway/hardware;TECH;1;0
+PORT Gateway - Purpose;/apis/onSite/pGateway/introduction;MARKETING;1;0
+PORT Gateway - Security;/apis/onSite/pGateway/security;TECH;1;0
+PORT Gateway - Specification;/apis/onSite/pGateway/specification;TECH;1;1
+PORT Gateway - Usage;/apis/onSite/pGateway/usage;TECH;1;1
+App management;/app-management;TECH;1;1
+Portal - Contact Request;/contact;SUPPORT;1;1
+Portal - Cookie Policy;/cookie-policy;SUPPORT;0;0
+Portal - Error page;/error;HOME;0;0
+Portal - Getting started;/getting-started;MARKETING;0;0
+Portal - Legal Notice;/legal-notice;SUPPORT;0;0
+Portal - Maintenance;/maintenance;HOME;0;0
+Portal - News;/news;NEWS;0;0
+Portal - News - Release of the new Portal;/news/c9592ecb-69b9-eb11-b81f-00155d0ace00;NEWS;0;0
+Portal - Page not found;/not-found;HOME;0;0
+Portal - Packages;/packages;MARKETING;0;0
+Portal - Privacy Policy;/privacy-policy;SUPPORT;0;0
+Portal -  Mobile SDK - Download;/sdk/mobile/myport/download;TECH;1;1
+Portal -  Mobile SDK - Purpose;/sdk/mobile/myport/introduction;MARKETING;1;0
+Portal -  Mobile SDK - Release notes;/sdk/mobile/myport/release-note;MARKETING;1;0
+Portal -  Mobile SDK - Requirements;/sdk/mobile/myport/requirements;TECH;1;0
+Portal -  Mobile SDK - Specification;/sdk/mobile/myport/specification;TECH;1;1
+Portal -  Mobile SDK - Usage;/sdk/mobile/myport/usage;TECH;1;1
+Portal - Search;/search;HOME;0;0
+Portal - Security;/security;HOME;0;0
+Portal - Terms and Conditions;/terms-conditions;SUPPORT;0;0

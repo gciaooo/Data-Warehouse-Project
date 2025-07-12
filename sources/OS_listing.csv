@@ -1,0 +1,33 @@
+OS code;OS description
+A10;Android 10
+A11;Android 11
+A12;Android 12
+A13;Android 13
+A6;Android 6.0
+A8_0_0;Android 8.0.0
+A8_1_0;Android 8.1.0
+A9;Android 9
+IOS11_0;iOS 11.0
+IOS13_2_3;iOS 13.2.3
+IOS14_6;iOS 14.6
+IOS14_7;iOS 14.7
+IOS14_7_1;iOS 14.7.1
+IOS15_2;iOS 15.2
+IOS15_3;iOS 15.3
+IOS15_3_1;iOS 15.3.1
+IOS15_4;iOS 15.4
+IOS15_4_1;iOS 15.4.1
+IOS15_5;iOS 15.5
+IOS15_6;iOS 15.6
+IOS15_6_1;iOS 15.6.1
+IOS15_7;iOS 15.7
+IOS16_0;iOS 16.0
+IOS8_3;iOS 8.3
+LX;Linux 
+MI10_13;Macintosh Intel 10.13
+MI10_14;Macintosh Intel 10.14
+MI10_15;Macintosh Intel 10.15
+W10;Windows 10
+W7;Windows 7
+W8_1;Windows 8.1
+WNT;Windows NT

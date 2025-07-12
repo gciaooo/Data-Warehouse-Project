@@ -1,0 +1,33 @@
+os_id;os_name;os_family
+A10      ;Android 10           ;Android
+A11      ;Android 11           ;Android
+A12      ;Android 12           ;Android
+A13      ;Android 13           ;Android
+A6       ;Android 6.0          ;Android
+A8_0_0   ;Android 8.0.0        ;Android
+A8_1_0   ;Android 8.1.0        ;Android
+A9       ;Android 9            ;Android
+IOS11_0  ;iOS 11.0             ;iOS
+IOS13_2_3;iOS 13.2.3           ;iOS
+IOS14_6  ;iOS 14.6             ;iOS
+IOS14_7  ;iOS 14.7             ;iOS
+IOS14_7_1;iOS 14.7.1           ;iOS
+IOS15_2  ;iOS 15.2             ;iOS
+IOS15_3  ;iOS 15.3             ;iOS
+IOS15_3_1;iOS 15.3.1           ;iOS
+IOS15_4  ;iOS 15.4             ;iOS
+IOS15_4_1;iOS 15.4.1           ;iOS
+IOS15_5  ;iOS 15.5             ;iOS
+IOS15_6  ;iOS 15.6             ;iOS
+IOS15_6_1;iOS 15.6.1           ;iOS
+IOS15_7  ;iOS 15.7             ;iOS
+IOS16_0  ;iOS 16.0             ;iOS
+IOS8_3   ;iOS 8.3              ;iOS
+LX       ;Linux                ;Linux
+MI10_13  ;Macintosh Intel 10.13;Macintosh
+MI10_14  ;Macintosh Intel 10.14;Macintosh
+MI10_15  ;Macintosh Intel 10.15;Macintosh
+W10      ;Windows 10           ;Windows
+W7       ;Windows 7            ;Windows
+W8_1     ;Windows 8.1          ;Windows
+WNT      ;Windows NT           ;Windows

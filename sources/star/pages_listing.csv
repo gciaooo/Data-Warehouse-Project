@@ -1,0 +1,48 @@
+url_id;url_name;topic
+/                                               ;Portal - Home page                         ;HOME     
+/apis/cloud/liveVisualization/introduction      ;Live visualization - Purpose               ;MARKETING
+/apis/cloud/liveVisualization/security          ;Live visualization - Security              ;TECH     
+/apis/cloud/liveVisualization/specification     ;Live visualization - Specification         ;TECH     
+/apis/cloud/liveVisualization/usage             ;Live visualization - Usage                 ;TECH     
+/apis/cloud/maintenanceInformation/introduction ;Maintenance information - Purpose          ;MARKETING
+/apis/cloud/maintenanceInformation/security     ;Maintenance information - Security         ;TECH     
+/apis/cloud/maintenanceInformation/specification;Maintenance information - Specification    ;TECH     
+/apis/cloud/notificationAlerts/introduction     ;Notifications and alerts - Purpose         ;MARKETING
+/apis/cloud/notificationAlerts/security         ;Notifications and alerts - Security        ;TECH     
+/apis/cloud/notificationAlerts/specification    ;Notifications and alerts - Specification   ;TECH     
+/apis/cloud/notificationAlerts/usage            ;Notifications and alerts - Usage           ;TECH     
+/apis/cloud/robot/introduction                  ;Robot building logistics - Purpose         ;MARKETING
+/apis/cloud/robot/security                      ;Robot building logistics - Security        ;TECH     
+/apis/cloud/robot/specification                 ;Robot building logistics - Specification   ;TECH     
+/apis/cloud/robot/usage                         ;Robot building logistics - Usage           ;TECH     
+/apis/cloud/statusIndicators/introduction       ;Essential status indicators - Purpose      ;MARKETING
+/apis/cloud/statusIndicators/security           ;Essential status indicators - Security     ;TECH     
+/apis/cloud/statusIndicators/specification      ;Essential status indicators - Specification;TECH     
+/apis/cloud/statusIndicators/usage              ;Essential status indicators - Usage        ;TECH     
+/apis/onSite/pGateway/deployment                ;PORT Gateway - Deployment                  ;TECH     
+/apis/onSite/pGateway/hardware                  ;PORT Gateway - Requirements                ;TECH     
+/apis/onSite/pGateway/introduction              ;PORT Gateway - Purpose                     ;MARKETING
+/apis/onSite/pGateway/security                  ;PORT Gateway - Security                    ;TECH     
+/apis/onSite/pGateway/specification             ;PORT Gateway - Specification               ;TECH     
+/apis/onSite/pGateway/usage                     ;PORT Gateway - Usage                       ;TECH     
+/app-management                                 ;App management                             ;TECH     
+/contact                                        ;Portal - Contact Request                   ;SUPPORT  
+/cookie-policy                                  ;Portal - Cookie Policy                     ;SUPPORT  
+/error                                          ;Portal - Error page                        ;HOME     
+/getting-started                                ;Portal - Getting started                   ;MARKETING
+/legal-notice                                   ;Portal - Legal Notice                      ;SUPPORT  
+/maintenance                                    ;Portal - Maintenance                       ;HOME     
+/news                                           ;Portal - News                              ;NEWS     
+/news/c9592ecb-69b9-eb11-b81f-00155d0ace00      ;Portal - News - Release of the new Portal  ;NEWS     
+/not-found                                      ;Portal - Page not found                    ;HOME     
+/packages                                       ;Portal - Packages                          ;MARKETING
+/privacy-policy                                 ;Portal - Privacy Policy                    ;SUPPORT  
+/sdk/mobile/myport/download                     ;Portal -  Mobile SDK - Download            ;TECH     
+/sdk/mobile/myport/introduction                 ;Portal -  Mobile SDK - Purpose             ;MARKETING
+/sdk/mobile/myport/release-note                 ;Portal -  Mobile SDK - Release notes       ;MARKETING
+/sdk/mobile/myport/requirements                 ;Portal -  Mobile SDK - Requirements        ;TECH     
+/sdk/mobile/myport/specification                ;Portal -  Mobile SDK - Specification       ;TECH     
+/sdk/mobile/myport/usage                        ;Portal -  Mobile SDK - Usage               ;TECH     
+/search                                         ;Portal - Search                            ;HOME     
+/security                                       ;Portal - Security                          ;HOME     
+/terms-conditions                               ;Portal - Terms and Conditions              ;SUPPORT  

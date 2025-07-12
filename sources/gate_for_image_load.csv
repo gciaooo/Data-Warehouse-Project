@@ -1,0 +1,4 @@
+Code;Min;Max;Performance Evaluation
+GIL1;0;250;Good
+GIL2;251;400;Normal
+GIL3;401;9999;Bad
